@@ -29,9 +29,9 @@ This project stands as a strategic guide for stakeholders in the electric vehicl
 
 ## Repository Structure
 
-- `/codes`: Contains the Jupyter Notebooks and Python scripts used for data analysis, clustering, and visualization.
+- `/code`: Contains the Jupyter Notebooks and Python scripts used for data analysis, clustering, and visualization.
 - `/data`: Includes the dataset used for the project, along with any intermediate or processed data files.
-- `/Report`: Stores project documentation, including the README file and any additional documentation files.
+- `/docs`: Stores project documentation, including the README file and any additional documentation files.
 - `/plots`: Contains visualizations and plots generated during the analysis.
 
 ## Getting Started
